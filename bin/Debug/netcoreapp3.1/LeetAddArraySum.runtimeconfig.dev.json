@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/paritoshmacbook/.dotnet/store/|arch|/|tfm|",
+      "/Users/paritoshmacbook/.nuget/packages"
+    ]
+  }
+}
